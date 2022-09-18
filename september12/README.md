@@ -1,7 +1,7 @@
 # Paper Response : Chapter 5: Robots: Asleep, Awake, Alone, and in Love
 
 ## Questions
-
+1. Why does a performance need a justification of what is displayed?
 2. Does the quote ‘human-like appearance gives a robot a strong feeling of presence’ relate to the idea that robots are more noticed if they were just like a copy of a human?
 3. How did the two Bjork Robots express human emotions, was it really that realistic or just a 'show'?
 4. Who defines a performace and determines who could perform in a show? Why does that lead to judgement?

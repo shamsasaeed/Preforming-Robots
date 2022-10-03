@@ -8,14 +8,14 @@
 
 ## Code 
 
-void setup() {
+- void setup() {
   // Pins 2 and 3 are connected to In1 and In2 respectively
   // of the L298 motor driver
   pinMode(2, OUTPUT);
   pinMode(3, OUTPUT);
 }
 
-void loop() {
+- void loop() {
   // make the motor turn in one direction
   digitalWrite(2, LOW);
   analogWrite(3, 195); // go fast

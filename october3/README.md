@@ -2,9 +2,15 @@
 
 ## Photographs
 
+![1](https://github.com/shamsasaeed/Preforming-Robots/blob/main/1.jpg)
 
+![2](https://github.com/shamsasaeed/Preforming-Robots/blob/main/2.jpg)
+
+![3](https://github.com/shamsasaeed/Preforming-Robots/blob/main/3.jpg)
 
 ## Video
+
+Video will be taken in class
 
 ## Code 
 

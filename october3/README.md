@@ -1,5 +1,3 @@
-# Process and Documentation
-
 ## Photographs
 
 ![1](https://github.com/shamsasaeed/Preforming-Robots/blob/main/1.jpg)
@@ -8,9 +6,11 @@
 
 ![3](https://github.com/shamsasaeed/Preforming-Robots/blob/main/3.jpg)
 
+
 ## Video
 
-Video will be taken in class
+[CLICK ME TO SEE ROBOT DEMO](https://youtube.com/shorts/vgvi5tsESYs?feature=share)
+
 
 ## Code 
 
@@ -49,7 +49,6 @@ Video will be taken in class
   - analogWrite(3, 100); // slower
  -  analogWrite(4, 100);
   - delay(3000);
-
 
 }
 

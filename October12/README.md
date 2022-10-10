@@ -1,4 +1,4 @@
-# Short Video of Practive featuring Shamsa
+# Short Video of Practive Featuring Shamsa
 [Click Here to See the Short Video](https://youtube.com/shorts/_rTDHCb5JAc?feature=share)
 
 # Inspiration

@@ -1,4 +1,4 @@
-# Short Video of Practive Featuring Shamsa
+# Short Video of Practice Featuring Shamsa
 [Click Here to See the Short Video](https://youtube.com/shorts/_rTDHCb5JAc?feature=share)
 
 ## Inspiration
@@ -17,10 +17,10 @@ What I had in mind was that since the robot was dressed poorly, like a maid, I w
 # Thinking Something Makes It So by Louise LePage
 
 ## Questions
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Why did people choose robots to be dramatic, is there a reason for this? A motive perhaps?
+2. Can the robot become a human? (page 280)
+3. How could the physical form and performance of a robot can be an ingredient (metaphorically)
 
 ## Observations and Reactions 
+
+After reading the text and the examples, a text that really stuck to me revolved around the idea of humanizing the robot versis machanizing the human. I believe that switching the roles could be dangerous, this is because when a human tries to micmic the robot and the robot tries to micic the human there would be a controversal emotions towards that which could potentially lead to confusion. Aren't humans supposed to show emotion? They're the ones who actually have it. Why do robots show emotions when we all know they cannot really feel it? This idea could be resented by many because people may not accept what is not natural in the real world, regardless if it was a performance or not.
